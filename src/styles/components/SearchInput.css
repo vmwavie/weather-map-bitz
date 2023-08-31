@@ -1,0 +1,26 @@
+.search-container {
+	width: 100%;
+	max-width: 600px;
+}
+
+.search-input-wrapper {
+	width: 100%;
+}
+
+.button-submit {
+	width: 100%;
+	border: none;
+	background-color: #f6f9fc;
+	border-radius: 0.35rem;
+	height: 5vh;
+	margin-top: 0.5rem;
+	padding: 6px 30px 6px 32px;
+	height: 2.37rem;
+	font-family: "Inter", system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-size: 16px;
+	color: #333;
+}
+
+.button-submit:hover {
+	background-color: #e7eff7;
+}
